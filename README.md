@@ -1,3 +1,3 @@
 # Data_structures_and_algorithms
- 1 course, 2 semester /n
+ 1 course, 2 semester
  Programming in C++
