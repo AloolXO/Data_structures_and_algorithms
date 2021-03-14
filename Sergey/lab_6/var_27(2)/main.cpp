@@ -8,7 +8,8 @@ int main() {
     setlocale(LC_ALL, "Russian");
 
     int* a; int n, i, c, max, w, m;
-    cout << "Введите размерность массива "; cin >> n;
+    cout << "Введите размерность массива ";
+    cin >> n;
     a = new int[n];
     int min = 12;
 
@@ -49,8 +50,8 @@ int main() {
         for (i=w; i < c; i++)
             m *= a[i];
     }
-    else {
-        for (i=c-1; i < w; i--)
+    if (c>w) {
+        for (i=c-1; i > w; i--)
             m *= a[i];
     }
 
