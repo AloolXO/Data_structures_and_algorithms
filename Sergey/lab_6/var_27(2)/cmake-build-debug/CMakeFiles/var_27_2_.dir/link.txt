@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/var_27_2_.dir/main.cpp.o  -o var_27_2_.exe -Wl,--out-implib,libvar_27_2_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
