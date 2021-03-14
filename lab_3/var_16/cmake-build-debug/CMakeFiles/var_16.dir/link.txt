@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/var_16.dir/main.cpp.o  -o var_16.exe -Wl,--out-implib,libvar_16.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Ex_2.dir/main.cpp.o  -o Ex_2.exe -Wl,--out-implib,libEx_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
