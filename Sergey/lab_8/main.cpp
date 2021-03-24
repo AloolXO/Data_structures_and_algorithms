@@ -12,7 +12,6 @@ int sum_f(int** arr, int n){
     }
     return s;
 }
-
 void print (int** arr, int n, int sum){
     cout << "\t" << " ---- Массив ---- ";
     for (int i = 0; i < n;i++) {
@@ -22,17 +21,7 @@ void print (int** arr, int n, int sum){
     }
     cout << "\n" << "\n" << "Результат вычисления: " << sum << "\n";
 }
-
-void del (int** arr, int n){
-    for (int i = 0; i < n;i++) {
-        for (int j = 0; j < n; j++)
-            delete arr[i];
-    }
-    delete [] arr;
-}
-
 int main() {
-    setlocale(LC_ALL, "Russian");
     int n, sum, **arr, count = 1;
     cout << "Введите размерность массива: ";
     cin >> n;
@@ -68,8 +57,4 @@ int main() {
     //Вывод массива и результата
 
     print(arr, n, sum);
-
-    //Удаление мссива
-
-    del (arr, n);
 }
