@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/University/1_course/2_semester/Data_structures_and_algorithms/Artem/lab_6/var_23/main.cpp
+iostream
+-
+cmath
+-
+
