@@ -15,6 +15,7 @@ long double fact(int n)
 
 int main() {
 
+    setlocale(LC_ALL, "Russian");
     int n; long double epsilon, y, x, p;
     cout << "Введите степень погрешности: ";
     cin >> epsilon;
