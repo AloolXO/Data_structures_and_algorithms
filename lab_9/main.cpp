@@ -10,11 +10,10 @@ struct  Turnover {
 
 void print(const Turnover tur[], int n)
 {
-    system("cls");
     cout << "№\t" << "Месяц\t" << "Объём продаж\t" << endl;
     cout << "===============================" << endl;
     for (int i = 0; i < n; ++i)
-        cout << tur[i].index << "\t" << tur[i].name << "\t" << tur[i].count << endl;
+        cout << tur[i].index << "\t" << tur[i].name << "\t\t" << tur[i].count << endl;
 }
 
 
