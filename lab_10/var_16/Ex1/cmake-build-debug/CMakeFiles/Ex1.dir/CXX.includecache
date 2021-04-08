@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/University/1_course/2_semester/Data_structures_and_algorithms/lab_10/var_16/Ex1/main.cpp
+iostream
+-
+string
+-
+random
+-
+
