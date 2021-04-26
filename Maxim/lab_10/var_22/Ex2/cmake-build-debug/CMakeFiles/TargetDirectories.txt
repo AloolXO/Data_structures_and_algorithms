@@ -1,0 +1,3 @@
+/cygdrive/d/University/1_course/2_semester/Data_structures_and_algorithms/Maxim/lab_10/var_22/Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/University/1_course/2_semester/Data_structures_and_algorithms/Maxim/lab_10/var_22/Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/University/1_course/2_semester/Data_structures_and_algorithms/Maxim/lab_10/var_22/Ex2/cmake-build-debug/CMakeFiles/Ex2.dir
