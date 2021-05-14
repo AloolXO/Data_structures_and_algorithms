@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab_12_List.dir/main.cpp.o  -o lab_12_List.exe -Wl,--out-implib,liblab_12_List.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
