@@ -133,7 +133,6 @@ int main() {
         int k =rand()%10-5;
         avl = insert(avl,k);
         h--;
-        cout << k << endl;
     };
 
     printTree(avl,0);
