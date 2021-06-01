@@ -125,15 +125,6 @@ void printTree(node* p, int l) {
         cout << endl;
 }
 
-/*void inorder(node* t)
-{
-    if(t == NULL)
-        return;
-    inorder(t->left);
-    cout << t->key << " ";
-    inorder(t->right);
-}*/
-
 int main() {
     int h;
     cout << "Введите высоту дерева: ";
