@@ -152,6 +152,8 @@ void List<T>::pop_back() {
 
 int main()
 {
+    float speed;
+
     random_device rd;
     mt19937 mersenne(rd());
     int n, c;
